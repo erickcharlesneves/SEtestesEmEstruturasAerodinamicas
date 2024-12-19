@@ -1,0 +1,2 @@
+../Core/Src/servo_motor.c:11:6:ServoMotor_Init	16	static
+../Core/Src/servo_motor.c:16:6:ServoMotor_Control	24	static

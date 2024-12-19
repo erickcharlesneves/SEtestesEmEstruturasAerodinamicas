@@ -1,0 +1,12 @@
+../Core/Src/main.c:126:6:funcao_printa_dados_do_mpu6050_na_usart	1
+../Core/Src/main.c:134:6:funcao_printa_os_dados_do_bmp280	2
+../Core/Src/main.c:140:6:funcao_enviador_todos_os_dados_uteis_para_a_usart2	1
+../Core/Src/main.c:167:5:main	4
+../Core/Src/main.c:277:6:SystemClock_Config	3
+../Core/Src/main.c:319:13:MX_ADC1_Init	3
+../Core/Src/main.c:371:13:MX_I2C1_Init	2
+../Core/Src/main.c:405:13:MX_TIM1_Init	7
+../Core/Src/main.c:480:13:MX_TIM3_Init	6
+../Core/Src/main.c:539:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:572:13:MX_GPIO_Init	1
+../Core/Src/main.c:600:6:Error_Handler	1

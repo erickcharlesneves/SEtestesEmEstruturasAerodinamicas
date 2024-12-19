@@ -1,0 +1,5 @@
+../Core/Src/oled_display_control.c:12:6:funcao_exibir_dados_de_temperatura	1
+../Core/Src/oled_display_control.c:29:6:funcao_exibir_dados_de_pressao	1
+../Core/Src/oled_display_control.c:46:6:funcao_exibir_dados_de_altitude	1
+../Core/Src/oled_display_control.c:64:6:TrocarInterfaceDisplay	6
+../Core/Src/oled_display_control.c:88:6:AtualizarDisplay	4
