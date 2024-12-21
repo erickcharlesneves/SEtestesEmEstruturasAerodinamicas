@@ -15,3 +15,6 @@ O programa para Windows: [codigo recebe dados do STM32 3.0.exe](https://github.c
   OBS: Se o programa não funcionar verifique se há a instalação do [Microsoft Visual C++](https://learn.microsoft.com/pt-br/cpp/windows/latest-supported-vc-redist?view=msvc-170) no windows. 
 
  (README EM EDIÇÃO...)
+
+Equipe:  Erick Charles Neves Cassiano
+         Robson Alves Vilar 
