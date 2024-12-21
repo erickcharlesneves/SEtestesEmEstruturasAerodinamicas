@@ -16,5 +16,7 @@ O programa para Windows: [codigo recebe dados do STM32 3.0.exe](https://github.c
 
  (README EM EDIÇÃO...)
 
-Equipe:  Erick Charles Neves Cassiano
-         Robson Alves Vilar 
+Equipe:  
+- Erick Charles Neves Cassiano
+- Robson Alves Vilar
+         
